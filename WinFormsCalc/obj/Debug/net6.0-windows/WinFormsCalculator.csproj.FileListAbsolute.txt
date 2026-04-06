@@ -1,0 +1,14 @@
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\bin\Debug\net6.0-windows\WinFormsCalculator.exe
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\bin\Debug\net6.0-windows\WinFormsCalculator.deps.json
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\bin\Debug\net6.0-windows\WinFormsCalculator.runtimeconfig.json
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\bin\Debug\net6.0-windows\WinFormsCalculator.dll
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\bin\Debug\net6.0-windows\WinFormsCalculator.pdb
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.AssemblyInfoInputs.cache
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.AssemblyInfo.cs
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.dll
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\obj\Debug\net6.0-windows\refint\WinFormsCalculator.dll
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.pdb
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\obj\Debug\net6.0-windows\WinFormsCalculator.genruntimeconfig.cache
+C:\Users\tirth\OneDrive\Desktop\WinFormsCalculator\obj\Debug\net6.0-windows\ref\WinFormsCalculator.dll
